@@ -1,2 +1,2 @@
-# bondrinkCS
+# BondrinkCS
 Bondrink Concept Search Algorithms
